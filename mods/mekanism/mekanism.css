@@ -1,0 +1,65 @@
+header {
+    background-color:black;
+    padding:35px
+}
+nav {
+    background-color:gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px
+}
+a {
+    font-family:'montserrat';
+    font-weight:bold;
+    text-decoration:none;
+    color:aliceblue;
+}
+section {
+    background-color:gray;
+    margin:0;
+}
+div {
+    margin:0;
+    padding:0;
+}
+
+/*TITULO DE LA PAGINA*/
+h1 {
+    font-family:'montserrat';
+    color: aliceblue;
+    text-align: center;
+    font-size: 65px;
+    padding: 0;
+    margin: 0
+}
+
+h2 {
+    font-family:'montserrat';
+    color:aliceblue;
+    text-align:center;
+    font-size:25px;
+}
+
+h3 {
+    font-family:'montserrat';
+    font-size:20px;
+    text-align:center;
+}
+
+p {
+
+}
+
+.basic-item {
+    color:green
+}
+
+.avanced-item {
+    color:red
+}
+.elite-item {
+    color:turquoise
+}
+.last-item {
+    color:violet
+}
